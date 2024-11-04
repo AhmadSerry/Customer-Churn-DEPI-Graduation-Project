@@ -1,2 +1,2 @@
 # Customer-Churn-DEPI-Graduation-Project\\
-![WhatsApp Image 2024-11-03 at 6 33 10 PM](https://github.com/user-attachments/assets/95afa3af-ce80-44ea-a3f2-321397f71759)
+![DWH](https://github.com/user-attachments/assets/d427a5d1-2a9e-43e5-94ce-30f3e3cf9d1a)
